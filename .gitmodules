@@ -1,3 +1,6 @@
 [submodule "cryptonote"]
 	path = cryptonote
 	url = https://github.com/Daviths/RebootCoin-Cryptonote.git
+[submodule "RebootCoin-Cryptonote"]
+	path = RebootCoin-Cryptonote
+	url = https://github.com/Daviths/RebootCoin-Cryptonote
